@@ -1,0 +1,59 @@
+{
+  "name": "tianyi-website",
+  "version": "0.1.0",
+  "author": "Tianyi Gu",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^0.1.11",
+    "api": "^3.4.2",
+    "fs": "0.0.1-security",
+    "gray-matter": "^4.0.2",
+    "katex": "^0.13.2",
+    "markdown": "^0.5.0",
+    "next": "^12.0.1",
+    "next-themes": "^0.0.11",
+    "nextra": "^0.4.5",
+    "notebookjs": "^0.6.4",
+    "path": "^0.12.7",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-katex": "^3.0.1",
+    "react-markdown": "^5.0.3",
+    "rehype-katex": "^7.0.0",
+    "remark": "^13.0.0",
+    "remark-gfm": "^1.0.0",
+    "remark-html": "^13.0.2",
+    "remark-math": "^4.0.0",
+    "remarkable": "^2.0.1",
+    "remarkable-katex": "^1.1.7",
+    "sharp": "^0.29.1",
+    "swr": "^0.4.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.0.3"
+  },
+  "description": "",
+  "main": "postcss.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianyi-gu/tianyi-gu.github.io.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "hhttps://github.com/tianyi-gu/tianyi-gu.github.io/issues"
+  },
+  "homepage": "https://github.com/tianyi-gu/tianyi-gu.github.io#readme"
+}
